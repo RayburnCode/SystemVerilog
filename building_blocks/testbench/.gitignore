@@ -1,0 +1,6 @@
+# Verilator build artifacts
+obj_dir/
+*.vcd
+
+# OS files
+.DS_Store

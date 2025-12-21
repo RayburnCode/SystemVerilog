@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Verilator build artifacts
+**/obj_dir/
+*.vcd
+
+# macOS
+.DS_Store
